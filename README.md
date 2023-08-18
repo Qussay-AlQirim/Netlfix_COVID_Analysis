@@ -3,6 +3,9 @@
 <p>
   The project at hand focuses on analysing two different datasets, Netflix and COVID, with the objective of producing visualizations to answer a set of proposed questions. As a data analyst, in order to ask insightful questions, a comprehensive understanding of the dataset is essential. This would allow the analyst to realize different attributes, data types and data quality, in turn acting as a starting point for data modelling and piecing attributes together to answer questions.
 </p>
+<p>
+  Microsoft Power BI will be the primary tool for exploratory analysis, model building and data visualization. A comprehensive report is created to document the process and note down our findings and answers to the set of questions that are of interest.
+</p>
 
 Set of questions to answer:
   - Netflix Data:
