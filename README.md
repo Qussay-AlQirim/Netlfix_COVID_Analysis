@@ -5,9 +5,9 @@
 </p>
 
 Set of questions to answer:
-  *Netflix
-    *Which Country has the highest amount of Movies?
-    *Which Movie has the highest IMDB Score?
-    *Content split between series and Movies
-    *Which Movies has the highest box office?
-    *Which Series has the highest IMDB Score?
+  * Netflix
+    * Which Country has the highest amount of Movies?
+    * Which Movie has the highest IMDB Score?
+    * Content split between series and Movies
+    * Which Movies has the highest box office?
+    * Which Series has the highest IMDB Score?
